@@ -3,6 +3,7 @@
 
 How to run code:
 
+Fisrtly, unzip the "thsis.zip"
 1 Use terminal to enter the folder of ‘2 Code’, run 'pip install -r requirements.txt' to install necessary libraries for python.
 
 2 Modify config.ini in the folder of '2 Code’, project_file_name is the folder containing fnirs, egg and vm.
